@@ -111,13 +111,8 @@ Estou construindo minha jornada na programação, explorando novas tecnologias e
 <!-- Adicione outras redes quando quiser -->
 
 </div>
-
----
-
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B86F45,50:493329,100:171412&height=100&section=footer" />
-
 
 <sub>DESIGNED WITH CURIOSITY · BUILT WITH CODE</sub>
 
