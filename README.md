@@ -1,4 +1,4 @@
-md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171412,50:493329,100:B86F45&height=180&section=header&text=MARIA%20LUIZA&fontSize=48&fontColor=E4D4C3&fontAlignY=38&desc=SYSTEMS%20DEVELOPMENT%20%7C%20TECHNOLOGY%20%7C%20CREATIVITY&descAlignY=60&descSize=12" />
