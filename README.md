@@ -25,11 +25,11 @@ Olá! Sou estudante do Ensino Médio integrado ao Técnico em Desenvolvimento de
 
 Estou construindo minha jornada na programação, explorando novas tecnologias e desenvolvendo projetos para transformar conhecimento em prática.
 
-- 💻 Interesse em desenvolvimento de software e web.
-- 🐍 Aprendendo lógica de programação com Python.
-- 🌐 Explorando HTML, CSS e JavaScript.
-- 🛠️ Utilizando Git e GitHub para organizar meus projetos.
-- 🌱 Sempre buscando evoluir e aprender algo novo.
+-  Interesse em desenvolvimento de software e web.
+- Aprendendo lógica de programação com Python.
+- Explorando HTML, CSS e JavaScript.
+- Utilizando Git e GitHub para organizar meus projetos.
+- Sempre buscando evoluir e aprender algo novo.
 
 
 
