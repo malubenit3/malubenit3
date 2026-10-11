@@ -17,7 +17,7 @@ md
 
 </div>
 
----
+
 
 ## `01` — Sobre mim
 
@@ -31,7 +31,7 @@ Estou construindo minha jornada na programação, explorando novas tecnologias e
 - 🛠️ Utilizando Git e GitHub para organizar meus projetos.
 - 🌱 Sempre buscando evoluir e aprender algo novo.
 
----
+
 
 ## `02` — Tech Stack
 
@@ -46,8 +46,6 @@ Estou construindo minha jornada na programação, explorando novas tecnologias e
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code e Linux" />
 
 </div>
-
----
 
 ## `03` — Projetos em destaque
 
@@ -69,7 +67,7 @@ Estou construindo minha jornada na programação, explorando novas tecnologias e
 
 *Os projetos acima são sugestões baseadas nos meus estudos. Os links podem ser adicionados conforme os repositórios forem publicados.*
 
----
+
 
 ## `04` — Objetivos atuais
 
@@ -90,7 +88,7 @@ Estou construindo minha jornada na programação, explorando novas tecnologias e
 - Aprender novas ferramentas e boas práticas.
 - Construir um portfólio com projetos próprios.
 
----
+
 
 ## `05` — GitHub Stats
 
@@ -101,7 +99,7 @@ Estou construindo minha jornada na programação, explorando novas tecnologias e
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malubenit3&layout=compact&hide_border=true&bg_color=171412&title_color=B86F45&text_color=E4D4C3" alt="Linguagens mais utilizadas" />
 
 </div>
----
+
 <div align="center">
 
 <a href="https://github.com/malubenit3">
