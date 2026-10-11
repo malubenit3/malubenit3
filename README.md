@@ -101,11 +101,7 @@ Estou construindo minha jornada na programação, explorando novas tecnologias e
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malubenit3&layout=compact&hide_border=true&bg_color=171412&title_color=B86F45&text_color=E4D4C3" alt="Linguagens mais utilizadas" />
 
 </div>
-
 ---
-
-## `06` — Vamos nos conectar?
-
 <div align="center">
 
 <a href="https://github.com/malubenit3">
