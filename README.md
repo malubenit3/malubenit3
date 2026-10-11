@@ -79,7 +79,7 @@ Estou construindo minha jornada na programação, explorando novas tecnologias e
 ├─────────────────────────────────────┤
 │ [x] Iniciar minha jornada na lógica  │
 │ [x] Explorar desenvolvimento web     │
-│ [ ] Aprofundar meus conhecimentos   │
+│ [X] Aprofundar meus conhecimentos   │
 │ [ ] Criar aplicações mais completas │
 │ [ ] Publicar novos projetos         │
 └─────────────────────────────────────┘
@@ -122,7 +122,6 @@ Estou construindo minha jornada na programação, explorando novas tecnologias e
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B86F45,50:493329,100:171412&height=100&section=footer" />
 
-**Construindo meu futuro, linha por linha.**
 
 <sub>DESIGNED WITH CURIOSITY · BUILT WITH CODE</sub>
 
