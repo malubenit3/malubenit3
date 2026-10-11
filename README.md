@@ -1,225 +1,118 @@
-```md
-<!-- ════════════════════════════════════════════════════════ -->
-<!--              SYSTEM INTERFACE // INITIALIZING            -->
-<!-- ════════════════════════════════════════════════════════ -->
-
+md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:100B0D,45:24170F,100:9B4D25&text=MARIA%20LUIZA&fontColor=E8B58B&fontSize=52&fontAlignY=38&desc=SYSTEMS%20DEVELOPER%20IN%20PROGRESS&descAlignY=58&descSize=15&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171412,50:493329,100:B86F45&height=180&section=header&text=MARIA%20LUIZA&fontSize=48&fontColor=E4D4C3&fontAlignY=38&desc=SYSTEMS%20DEVELOPMENT%20%7C%20TECHNOLOGY%20%7C%20CREATIVITY&descAlignY=60&descSize=12" />
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-B86F45?style=for-the-badge&labelColor=100B0D" />
-<img src="https://img.shields.io/badge/STATUS-LEARNING-E8B58B?style=for-the-badge&labelColor=100B0D" />
-<img src="https://img.shields.io/badge/BUILD-001-70452F?style=for-the-badge&labelColor=100B0D" />
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING-B86F45?style=for-the-badge&labelColor=171412" />
+<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-493329?style=for-the-badge&labelColor=171412" />
+<img src="https://img.shields.io/badge/BASED_IN-BRAZIL-E4D4C3?style=for-the-badge&labelColor=171412" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=E8B58B&center=true&vCenter=true&width=700&height=50&lines=INITIALIZING+DEVELOPER+INTERFACE...;HELLO%2C+WORLD!+I'M+MARIA+LUIZA.;SYSTEMS+DEVELOPMENT+%7C+CODE+%7C+CREATIVITY;BUILDING+THE+FUTURE%2C+ONE+LINE+AT+A+TIME." alt="System initialization" />
+**Desenvolvedora em formação | Estudante de Desenvolvimento de Sistemas**
 
-<br>
-
-<sub>
-◈ ARTIFICIAL INTELLIGENCE INSPIRED INTERFACE ◈
-<br>
-CREATIVITY · LOGIC · INNOVATION · DEVELOPMENT
-</sub>
+*Transformando ideias em código, um projeto de cada vez.*
 
 </div>
 
 ---
 
-## `01` // SOBRE MIM
+## `01` — Sobre mim
 
-<img align="right" width="145" src="https://skillicons.dev/icons?i=python&theme=dark" />
+Olá! Sou estudante do Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas.
 
-```yaml
-IDENTITY:
-  name: "Maria Luiza"
-  role: "Developer in training"
-  education: "Systems Development"
+Estou construindo minha jornada na programação, explorando novas tecnologias e desenvolvendo projetos para transformar conhecimento em prática.
 
-INTERESTS:
-  - Software Development
-  - Web Technologies
-  - Creative Projects
-  - Technology & Innovation
+- 💻 Interesse em desenvolvimento de software e web.
+- 🐍 Aprendendo lógica de programação com Python.
+- 🌐 Explorando HTML, CSS e JavaScript.
+- 🛠️ Utilizando Git e GitHub para organizar meus projetos.
+- 🌱 Sempre buscando evoluir e aprender algo novo.
 
-CURRENT_STATUS:
-  learning: true
-  building: true
-  improving: always
+---
+
+## `02` — Tech Stack
+
+<div align="center">
+
+### Linguagens e desenvolvimento web
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" alt="Python, HTML, CSS e JavaScript" />
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code e Linux" />
+
+</div>
+
+---
+
+## `03` — Projetos em destaque
+
+<div align="center">
+
+<a href="https://github.com/malubenit3">
+  <img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-B86F45?style=for-the-badge&logo=github&logoColor=E4D4C3&labelColor=171412" alt="Explorar repositórios" />
+</a>
+
+</div>
+
+### Projetos que estou desenvolvendo
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| Sistema de Barbearia | Demonstração de agendamentos e serviços | Python, HTML, CSS |
+| Loja de Jogos | Página de apresentação de produtos fictícios | HTML, CSS |
+| Projetos acadêmicos | Exercícios e trabalhos do curso técnico | Python e outras tecnologias |
+
+*Os projetos acima são sugestões baseadas nos meus estudos. Os links podem ser adicionados conforme os repositórios forem publicados.*
+
+---
+
+## `04` — Objetivos atuais
+
+```text
+┌─────────────────────────────────────┐
+│       DEVELOPER TERMINAL             │
+├─────────────────────────────────────┤
+│ [x] Iniciar minha jornada na lógica  │
+│ [x] Explorar desenvolvimento web     │
+│ [ ] Aprofundar meus conhecimentos   │
+│ [ ] Criar aplicações mais completas │
+│ [ ] Publicar novos projetos         │
+└─────────────────────────────────────┘
 ```
 
-Olá! Sou estudante do Ensino Médio integrado ao Técnico em
-Desenvolvimento de Sistemas e estou construindo minha jornada
-no universo da tecnologia.
-
-Gosto de transformar ideias em projetos, explorar novas
-ferramentas e desenvolver soluções por meio do código.
-
-> "Every expert was once a beginner."
+- Aprimorar minha lógica de programação.
+- Desenvolver sites com interfaces bem estruturadas.
+- Aprender novas ferramentas e boas práticas.
+- Construir um portfólio com projetos próprios.
 
 ---
 
-## `02` // TECH STACK
+## `05` — GitHub Stats
 
 <div align="center">
 
-### `CORE TECHNOLOGIES`
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=malubenit3&show_icons=true&hide_border=true&bg_color=171412&title_color=B86F45&text_color=E4D4C3&icon_color=B86F45" alt="Estatísticas do GitHub" />
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" />
-
-### `DEVELOPMENT ENVIRONMENT`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-
-<br>
-
-<img src="https://img.shields.io/badge/PYTHON-Learning-B86F45?style=flat-square&logo=python&logoColor=E8B58B&labelColor=100B0D" />
-<img src="https://img.shields.io/badge/HTML5-Web%20Structure-E8B58B?style=flat-square&logo=html5&logoColor=E8B58B&labelColor=100B0D" />
-<img src="https://img.shields.io/badge/CSS3-Visual%20Design-B86F45?style=flat-square&logo=css3&logoColor=E8B58B&labelColor=100B0D" />
-<img src="https://img.shields.io/badge/GIT-Version%20Control-E8B58B?style=flat-square&logo=git&logoColor=E8B58B&labelColor=100B0D" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malubenit3&layout=compact&hide_border=true&bg_color=171412&title_color=B86F45&text_color=E4D4C3" alt="Linguagens mais utilizadas" />
 
 </div>
 
 ---
 
-## `03` // TOOLS & ENVIRONMENT
+## `06` — Vamos nos conectar?
 
 <div align="center">
 
-| TOOL | PURPOSE |
-|:---:|:---|
-| `VS CODE` | Code editing and development |
-| `GIT` | Version control |
-| `GITHUB` | Repositories and collaboration |
-| `LINUX` | Development environment |
-| `PYTHON` | Programming and logic |
-| `HTML / CSS` | Web development |
-
-</div>
-
----
-
-## `04` // FEATURED PROJECTS
-
-<div align="center">
-
-<a href="https://github.com/SEU-USUARIO/SEU-PROJETO-1">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=SEU-PROJETO-1&bg_color=100B0D&title_color=E8B58B&text_color=C9B8A8&icon_color=B86F45&border_color=70452F" />
-</a>
-<a href="https://github.com/SEU-USUARIO/SEU-PROJETO-2">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=SEU-PROJETO-2&bg_color=100B0D&title_color=E8B58B&text_color=C9B8A8&icon_color=B86F45&border_color=70452F" />
+<a href="https://github.com/malubenit3">
+  <img src="https://img.shields.io/badge/GitHub-171412?style=for-the-badge&logo=github&logoColor=E4D4C3" alt="GitHub" />
 </a>
 
-</div>
-
-### `PROJECT LOG`
-
-- **01 — Web Development:** interfaces e experiências para a web.
-- **02 — Python Systems:** lógica, automação e aplicações.
-- **03 — Academic Projects:** projetos desenvolvidos durante minha formação.
-
-<sub>Substitua as sugestões acima pelos seus projetos reais.</sub>
-
----
-
-## `05` // CURRENT OBJECTIVES
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=9B4D25" />
-
-</div>
-
-```bash
-┌──[ MARIA@DEVELOPER-STATION ]
-│
-├── $ system.status
-│   └── ONLINE
-│
-├── $ learning --current
-│   ├── Python fundamentals
-│   ├── HTML & CSS
-│   ├── JavaScript
-│   └── Git & GitHub
-│
-├── $ objectives --next
-│   ├── Build complete web applications
-│   ├── Improve programming logic
-│   ├── Publish new projects
-│   └── Explore new technologies
-│
-└── $ echo "PROGRESS IS A PROCESS."
-    └── [OK] EXECUTING NEXT CHALLENGE...
-```
-
----
-
-## `06` // GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=100B0D&title_color=E8B58B&text_color=C9B8A8&icon_color=B86F45&ring_color=B86F45&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=100B0D&title_color=E8B58B&text_color=C9B8A8&langs_count=8" />
-
-<br><br>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=SEU-USUARIO&hide_border=true&background=100B0D&ring=B86F45&fire=E8B58B&currStreakLabel=E8B58B&sideLabels=C9B8A8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B7868" />
-
-</div>
-
----
-
-## `07` // CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=100B0D&color=E8B58B&line=B86F45&point=F2D4B8&area=true&area_color=70452F&hide_border=true&custom_title=DEVELOPER%20ACTIVITY%20LOG" />
-
-</div>
-
----
-
-## `08` // ACHIEVEMENTS
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" />
-
-</div>
-
----
-
-## `09` // CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
-
-</div>
-
----
-
-## `10` // CONNECT TO NETWORK
-
-<div align="center">
-
-<a href="https://github.com/SEU-USUARIO">
-  <img src="https://img.shields.io/badge/GITHUB-100B0D?style=for-the-badge&logo=github&logoColor=E8B58B" />
-</a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-  <img src="https://img.shields.io/badge/LINKEDIN-100B0D?style=for-the-badge&logo=linkedin&logoColor=E8B58B" />
-</a>
-<a href="mailto:SEU-EMAIL">
-  <img src="https://img.shields.io/badge/EMAIL-100B0D?style=for-the-badge&logo=gmail&logoColor=E8B58B" />
-</a>
-
-<br><br>
-
-<sub>
-NETWORK STATUS: AWAITING CONNECTION
-</sub>
+<!-- Adicione outras redes quando quiser -->
 
 </div>
 
@@ -227,15 +120,10 @@ NETWORK STATUS: AWAITING CONNECTION
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9B4D25,55:24170F,100:100B0D&height=130&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B86F45,50:493329,100:171412&height=100&section=footer" />
 
-<sub>
-SYSTEM DESIGNED BY MARIA LUIZA
-<br>
-POWERED BY CURIOSITY · BUILT WITH CODE
-<br><br>
-<code>END OF TRANSMISSION // 001</code>
-</sub>
+**Construindo meu futuro, linha por linha.**
+
+<sub>DESIGNED WITH CURIOSITY · BUILT WITH CODE</sub>
 
 </div>
-```
